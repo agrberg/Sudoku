@@ -1,2 +1,15 @@
-bin/
+#Apple shit
 .DS_Store
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated GUI files
+*R.java
