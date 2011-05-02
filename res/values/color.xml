@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<color name="background">#3500ffff</color>
+	<color name="puzzle_background">#ffe6f0ff</color>
+	<color name="puzzle_hilite">#ffffffff</color>
+	<color name="puzzle_light">#64c6d4ef</color>
+	<color name="puzzle_dark">#6456648f</color>
+	<color name="puzzle_foreground">#ff000000</color>
+	<color name="puzzle_hint_0">#64ff0000</color>
+	<color name="puzzle_hint_1">#6400ff80</color>
+	<color name="puzzle_hint_2">#2000ff80</color>
+	<color name="puzzle_selected">#64ff8000</color>
 </resources>
