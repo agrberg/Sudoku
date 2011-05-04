@@ -101,7 +101,7 @@ public class PuzzleView extends View {
 		// Draw the hints
 		// Pick a hint color based on #moves left
 		Paint hint = new Paint();
-		int c[] = { getResources.getColor(R.color.puzzle_hint_0),
+		int c[] = { getResources().getColor(R.color.puzzle_hint_0),
 				getResources().getColor(R.color.puzzle_hint_1),
 				getResources().getColor(R.color.puzzle_hint_2), };
 		Rect r = new Rect();
